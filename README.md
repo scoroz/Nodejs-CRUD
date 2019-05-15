@@ -1,5 +1,5 @@
 # Nodejs-CRUD
-Teste entrevista Ri Happy - Matheus Scotini <br/> <br/>
+Teste - Matheus Scotini <br/> <br/>
 Para testar o projeto, instale os módulos executando os códigos no terminal na pasta raiz:
 - npm install express
 - npm install mongoose
